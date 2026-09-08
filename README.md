@@ -5,15 +5,6 @@
 - 👯 I'm availabe to partipate in projects using Java, C# and TypeScript 
 - ⚡ Fun fact: OSRS player, Pokemon Trainer and Hero of Hyrule.
 
-##
-
- <div align="center">
-  <a href="https://github.com/Moowguel">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moowguel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moowguel&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
-## 👾
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moowguel/Moowguel/output/commit-invaders-dark.svg">
