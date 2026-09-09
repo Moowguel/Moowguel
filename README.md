@@ -23,22 +23,10 @@
   </picture>
 </div>
 
-##
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moowguel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moowguel&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Moowguel&theme=cobalt" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moowguel&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
-</div>
-
-##
 
 <div align="center">
 
