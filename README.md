@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moowguel&theme=cobalt" />
+  <img src="https://streak-stats.demolab.com?user=Moowguel&theme=cobalt" />
 </div>
 
 <div align="center">
